@@ -1,0 +1,8 @@
+short_name --> Nombre que aparecera debajo del icono.
+bg-color --> Color de fondo de la pantalla de carga, donde sale el logo mientras carga.
+theme-color --> Color principal
+orientation --> Orientacion del celular (portrait: vertical, landscape: horizontal)
+display --> es lo q hace que no se vea como navegador sino como app.. si ponemos browser se veria como si lo abrimos en un navegador.
+start_url --> Url de inicio (estandar)
+scope --> Al poner ./ le decimos que cargue la carpeta donde esta el manifest y sus subcarpetas
+icons --> Sirve para dar soporte a una gran diversidad de dispositivos moviles
